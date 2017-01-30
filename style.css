@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+ul {
+  padding: 0;
+}
+
+h1 {
+  margin: 20px;
+}
+
+#nav {
+  margin: 20px;
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 20px;
+  text-transform: uppercase;
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+#footer {
+  font-style: italic;
+  font-size: 12px;
+  margin: 40px 20px;
+}
